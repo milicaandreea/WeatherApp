@@ -1,0 +1,266 @@
+[
+  {
+    "location": "Bucharest",
+    "latitude": 44.4268,
+    "longitude": 26.1025,
+    "current_weather": "Sunny",
+    "current_temperature": 25.0,
+    "forecast": [
+      {"weather": "Rainy", "temperature": 20.0},
+      {"weather": "Cloudy", "temperature": 22.0},
+      {"weather": "Sunny", "temperature": 25.0}
+    ]
+  },
+  {
+    "location": "Cluj",
+    "latitude": 46.7712,
+    "longitude": 23.6236,
+    "current_weather": "Cloudy",
+    "current_temperature": 18.5,
+    "forecast": [
+      {"weather": "Sunny", "temperature": 20.0},
+      {"weather": "Sunny", "temperature": 22.0},
+      {"weather": "Rainy", "temperature": 17.0}
+    ]
+  },
+  {
+    "location": "New York",
+    "latitude": 40.7128,
+    "longitude": -74.0060,
+    "current_weather": "Cloudy",
+    "current_temperature": 10.0,
+    "forecast": [
+      {"weather": "Rainy", "temperature": 8.0},
+      {"weather": "Sunny", "temperature": 12.0},
+      {"weather": "Cloudy", "temperature": 10.0}
+    ]
+  },
+  {
+    "location": "Los Angeles",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "current_weather": "Sunny",
+    "current_temperature": 25.0,
+    "forecast": [
+      {"weather": "Sunny", "temperature": 27.0},
+      {"weather": "Sunny", "temperature": 28.0},
+      {"weather": "Cloudy", "temperature": 24.0}
+    ]
+  },
+  {
+    "location": "Chicago",
+    "latitude": 41.8781,
+    "longitude": -87.6298,
+    "current_weather": "Windy",
+    "current_temperature": 15.0,
+    "forecast": [
+      {"weather": "Cloudy", "temperature": 14.0},
+      {"weather": "Rainy", "temperature": 13.0},
+      {"weather": "Sunny", "temperature": 18.0}
+    ]
+  },
+  {
+    "location": "Houston",
+    "latitude": 29.7604,
+    "longitude": -95.3698,
+    "current_weather": "Rainy",
+    "current_temperature": 20.0,
+    "forecast": [
+      {"weather": "Rainy", "temperature": 19.0},
+      {"weather": "Cloudy", "temperature": 21.0},
+      {"weather": "Sunny", "temperature": 25.0}
+    ]
+  },
+  {
+    "location": "Phoenix",
+    "latitude": 33.4484,
+    "longitude": -112.0740,
+    "current_weather": "Sunny",
+    "current_temperature": 30.0,
+    "forecast": [
+      {"weather": "Sunny", "temperature": 32.0},
+      {"weather": "Sunny", "temperature": 33.0},
+      {"weather": "Sunny", "temperature": 31.0}
+    ]
+  },
+  {
+    "location": "London",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "current_weather": "Foggy",
+    "current_temperature": 12.0,
+    "forecast": [
+      {"weather": "Cloudy", "temperature": 11.0},
+      {"weather": "Rainy", "temperature": 10.0},
+      {"weather": "Sunny", "temperature": 15.0}
+    ]
+  },
+  {
+    "location": "Paris",
+    "latitude": 48.8566,
+    "longitude": 2.3522,
+    "current_weather": "Rainy",
+    "current_temperature": 14.0,
+    "forecast": [
+      {"weather": "Cloudy", "temperature": 13.0},
+      {"weather": "Rainy", "temperature": 12.0},
+      {"weather": "Sunny", "temperature": 16.0}
+    ]
+  },
+  {
+    "location": "Tokyo",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "current_weather": "Rainy",
+    "current_temperature": 18.0,
+    "forecast": [
+      {"weather": "Rainy", "temperature": 17.0},
+      {"weather": "Rainy", "temperature": 16.0},
+      {"weather": "Cloudy", "temperature": 18.0}
+    ]
+  },
+  {
+    "location": "Beijing",
+    "latitude": 39.9042,
+    "longitude": 116.4074,
+    "current_weather": "Cloudy",
+    "current_temperature": 20.0,
+    "forecast": [
+      {"weather": "Sunny", "temperature": 22.0},
+      {"weather": "Cloudy", "temperature": 20.0},
+      {"weather": "Rainy", "temperature": 18.0}
+    ]
+  },
+  {
+    "location": "Sydney",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "current_weather": "Sunny",
+    "current_temperature": 22.0,
+    "forecast": [
+      {"weather": "Sunny", "temperature": 24.0},
+      {"weather": "Sunny", "temperature": 23.0},
+      {"weather": "Cloudy", "temperature": 21.0}
+    ]
+  },
+  {
+    "location": "Rio de Janeiro",
+    "latitude": -22.9068,
+    "longitude": -43.1729,
+    "current_weather": "Rainy",
+    "current_temperature": 28.0,
+    "forecast": [
+      {"weather": "Rainy", "temperature": 27.0},
+      {"weather": "Cloudy", "temperature": 28.0},
+      {"weather": "Sunny", "temperature": 30.0}
+    ]
+  },
+  {
+    "location": "Moscow",
+    "latitude": 55.7558,
+    "longitude": 37.6173,
+    "current_weather": "Snowy",
+    "current_temperature": -5.0,
+    "forecast": [
+      {"weather": "Snowy", "temperature": -6.0},
+      {"weather": "Snowy", "temperature": -5.0},
+      {"weather": "Cloudy", "temperature": -3.0}
+    ]
+  },
+  {
+    "location": "Cape Town",
+    "latitude": -33.9249,
+    "longitude": 18.4241,
+    "current_weather": "Sunny",
+    "current_temperature": 24.0,
+    "forecast": [
+      {"weather": "Sunny", "temperature": 25.0},
+      {"weather": "Cloudy", "temperature": 23.0},
+      {"weather": "Rainy", "temperature": 22.0}
+    ]
+  },
+  {
+    "location": "Mumbai",
+    "latitude": 19.0760,
+    "longitude": 72.8777,
+    "current_weather": "Cloudy",
+    "current_temperature": 30.0,
+    "forecast": [
+      {"weather": "Rainy", "temperature": 29.0},
+      {"weather": "Cloudy", "temperature": 30.0},
+      {"weather": "Sunny", "temperature": 32.0}
+    ]
+  },
+  {
+    "location": "Dubai",
+    "latitude": 25.276987,
+    "longitude": 55.296249,
+    "current_weather": "Sunny",
+    "current_temperature": 35.0,
+    "forecast": [
+      {"weather": "Sunny", "temperature": 36.0},
+      {"weather": "Sunny", "temperature": 37.0},
+      {"weather": "Cloudy", "temperature": 34.0}
+    ]
+  },
+  {
+    "location": "Berlin",
+    "latitude": 52.5200,
+    "longitude": 13.4050,
+    "current_weather": "Cloudy",
+    "current_temperature": 11.0,
+    "forecast": [
+      {"weather": "Rainy", "temperature": 10.0},
+      {"weather": "Cloudy", "temperature": 11.0},
+      {"weather": "Sunny", "temperature": 14.0}
+    ]
+  },
+  {
+    "location": "Madrid",
+    "latitude": 40.4168,
+    "longitude": -3.7038,
+    "current_weather": "Sunny",
+    "current_temperature": 20.0,
+    "forecast": [
+      {"weather": "Sunny", "temperature": 22.0},
+      {"weather": "Sunny", "temperature": 23.0},
+      {"weather": "Cloudy", "temperature": 21.0}
+    ]
+  },
+  {
+    "location": "Toronto",
+    "latitude": 43.651070,
+    "longitude": -79.347015,
+    "current_weather": "Snowy",
+    "current_temperature": -2.0,
+    "forecast": [
+      {"weather": "Snowy", "temperature": -3.0},
+      {"weather": "Cloudy", "temperature": -2.0},
+      {"weather": "Sunny", "temperature": 0.0}
+    ]
+  },
+  {
+    "location": "Buenos Aires",
+    "latitude": -34.6037,
+    "longitude": -58.3816,
+    "current_weather": "Rainy",
+    "current_temperature": 25.0,
+    "forecast": [
+      {"weather": "Rainy", "temperature": 24.0},
+      {"weather": "Cloudy", "temperature": 25.0},
+      {"weather": "Sunny", "temperature": 27.0}
+    ]
+  },
+  {
+    "location": "Cairo",
+    "latitude": 30.0444,
+    "longitude": 31.2357,
+    "current_weather": "Sunny",
+    "current_temperature": 27.0,
+    "forecast": [
+      {"weather": "Sunny", "temperature": 28.0},
+      {"weather": "Sunny", "temperature": 29.0},
+      {"weather": "Cloudy", "temperature": 26.0}
+    ]
+  }
+]
